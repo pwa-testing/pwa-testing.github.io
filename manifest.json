@@ -3,12 +3,12 @@
     "name": "Minimal Progressive Web App",
     "icons": [
       {
-        "src": "assets/1.png",
+        "src": "https://pwa-testing.github.io/assets/1.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "assets/2.png",
+        "src": "https://pwa-testing.github.io/assets/2.png",
         "type": "image/png",
         "sizes": "512x512"
       }
